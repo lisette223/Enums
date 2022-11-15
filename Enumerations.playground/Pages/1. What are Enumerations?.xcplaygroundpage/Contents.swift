@@ -13,7 +13,7 @@
  }
  Use the case keyword to define the cases of your enum:
 */
- enum DogBreed {
+ enum DogBreed1 {
      case corgi
      case husky
      case samoyed
