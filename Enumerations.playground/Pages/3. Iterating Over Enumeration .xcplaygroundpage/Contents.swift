@@ -52,7 +52,5 @@ enum Vehicle {
  2. Create a for loop that prints all of the cases of the Vehicle enum. */
 
 // 2: Create for loop here
-for i in Vehicle{
-    
-}
+
 //: [Next](@next)
