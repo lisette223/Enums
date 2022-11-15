@@ -4,7 +4,7 @@
  ## Iterating Over Enumeration Cases
  Enumerations aren’t technically one of the three primary collection types offered by Swift (Arrays, Sets, and Dictionaries). However, they do define a set of cases, and you may find yourself in a situation where it is convenient to iterate across all of the cases like you would with a collection. Let’s say that you are making an app where the user can select the season:
 */
- enum Season {
+ enum Season1 {
      case winter
      case spring
      case summer
@@ -52,5 +52,7 @@ enum Vehicle {
  2. Create a for loop that prints all of the cases of the Vehicle enum. */
 
 // 2: Create for loop here
-
+for i in Vehicle{
+    
+}
 //: [Next](@next)
